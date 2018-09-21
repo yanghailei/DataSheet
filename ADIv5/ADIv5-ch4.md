@@ -9,5 +9,5 @@
 > yang
 * hailei
 - lei
-  -ni
-  -hao
+  - ni
+  - hao
